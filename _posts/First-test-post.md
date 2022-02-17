@@ -5,7 +5,7 @@ subtitle: OPM TEST PAGE yo
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [OPM, test]
+tags: [test]
 ---
 
 # This Is A Header
