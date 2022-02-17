@@ -16,9 +16,8 @@ author: OPM
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "opm-rc-data.github.io"
+    - Psychonaut Wiki: "https://psychonautwiki.org/wiki/Main_Page"
+  
   Data: "Data"
 
 # --- Logo --- #
@@ -41,12 +40,12 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "opmrcdata@null.net"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: N/A
+#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+#  facebook: 
   github: OPM-RC-DATA
-  twitter: N/A
-  patreon: N/A
-  youtube: N/A
+#  twitter: 
+#  patreon: 
+#  youtube: 
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -102,15 +101,15 @@ post_search: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
+navbar-col: "#b254df"
+navbar-text-col: "#19d1c5"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
+footer-col: "#b254df"
+footer-text-col: "#19d1c5"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
 
