@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: why you'd want to know about me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is OPM and I am:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- A human
+- A Dumb human
 
-What else do you need?
+What else do you need to know?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+To be honest, I'm too **_lazy_** to type all that out... so yeah.. or maybe its because I'm  
+> A Dumb human
